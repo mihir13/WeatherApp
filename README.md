@@ -2,6 +2,8 @@
 
 WeatherApp is a desktop application built with Python and Tkinter that provides real-time weather information for any city. It fetches data from the OpenWeatherMap API and displays it in a user-friendly interface.
 
+![Weather App Screenshot](assets/weather-app.png)
+
 ## Features
 - Get current weather information for any city.
 - Displays weather conditions, temperature, and an icon representing the weather.
